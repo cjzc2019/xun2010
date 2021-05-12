@@ -5,19 +5,19 @@
             "icon": "https://s3.ax1x.com/2021/02/17/ygLAIA.jpg",
             "repo": "https://github.com/cjzc2019/xun2010",
             "apps": [{ 
-            "id": "qlp",
-            "name": "考状元娶老婆二合一",
-            "keys": ["qlphd","kzyhd", "qlphd2","kzyhd2", "qlphd3","kzyhd3", "qlphd4","kzyhd4", "qlphd5","kzyhd5", "qlphd6","kzyhd6", "qlphd7","kzyhd7", "qlphd8","kzyhd8", "qlphd9","kzyhd9", "qlphd10","kzyhd10","qlphd11","kzyhd11", "qlphd12","kzyhd12", "qlphd13","kzyhd13", "qlphd14","kzyhd14", "qlphd15","kzyhd15", "qlphd16","kzyhd16", "qlphd17","kzyhd17", "qlphd18","kzyhd18", "qlphd19","kzyhd19", "qlphd20","kzyhd20"],
+            "id": "whd",
+            "name": "whd",
+            "keys": ["wdwhdbody","wdwhdhd", "wdwhdspbody","wdwhdbody2","wdwhdhd2", "wdwhdspbody2","wdwhdbody3","wdwhdhd3", "wdwhdspbody3","wdwhdbody4","wdwhdhd4", "wdwhdspbody4","wdwhdbody5","wdwhdhd5", "wdwhdspbody5"],
             "author": "@feizao",
             "settings": [{
-            "id": "qlpstatus",
+            "id": "wdwhdstatus",
             "name": "当前账号",
             "val": "1",
             "type": "number",
             "desc": "当前账号对应"
     },
     {
-            "id": "qlpcount",
+            "id": "wdwhdcount",
             "name": "账号个数",
             "val": "1",
             "type": "number",
