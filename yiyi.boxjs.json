@@ -8,7 +8,7 @@
             "id": "whd",
             "name": "whd",
             "keys": ["wdwhdbody","wdwhdhd", "wdwhdspbody","wdwhdbody2","wdwhdhd2", "wdwhdspbody2","wdwhdbody3","wdwhdhd3", "wdwhdspbody3","wdwhdbody4","wdwhdhd4", "wdwhdspbody4","wdwhdbody5","wdwhdhd5", "wdwhdspbody5"],
-            "author": "@feizao",
+            "author": "@yiyi",
             "settings": [{
             "id": "wdwhdstatus",
             "name": "当前账号",
@@ -23,9 +23,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/cjzc2019/xun2010/blame/main/qlp.js",
+            "repo": "https://github.com/cjzc2019/xun2010/blame/main/wdwhd.js",
             "icons": ["https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg", "https://ae01.alicdn.com/kf/Uc2775b8f4abf41788ba89df0317e58050.jpg"],
-            "script": "https://raw.githubusercontent.com/cjzc2019/xun2010/blame/main/qlp.js"
+            "script": "https://raw.githubusercontent.com/cjzc2019/xun2010/blame/main/wdwhd.js"
     }  ,
     
 ]
