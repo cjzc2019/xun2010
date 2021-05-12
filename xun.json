@@ -1,8 +1,8 @@
 {
-            "id": "yiyi.app.sub",
-            "name": "yiyi 应用订阅",
+            "id": "yiyi",
+            "name": "yiyi应用订阅",
             "author": "@yiyi",
-            "icon": "https://s3.ax1x.com/2021/02/17/ygLAIA.jpg",
+            "icon": "http://1812.img.pp.sohu.com.cn/images/blog/2009/11/18/18/8/125b6560a6ag214.jpg",
             "repo": "https://github.com/cjzc2019/xun2010",
             "apps": [{
             "id": "whd",
@@ -23,9 +23,9 @@
             "type": "number",
             "desc": "需要几个账号，数字为几"
     }],
-            "repo": "https://github.com/age174/-/blob/main/xbyd.js",
+            "repo": "wdwhd.js",
             "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
-            "script": "https://raw.githubusercontent.com/age174/-/main/xbyd.js"
+            "script": "wdwhd.js"
     }
 ]
 }
