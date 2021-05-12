@@ -1,0 +1,24 @@
+{
+            "id": "yiyi.app.sub",
+            "name": "yiyi 应用订阅",
+            "author": "@yiyi",
+            "icon": "https://s3.ax1x.com/2021/02/17/ygLAIA.jpg",
+            "repo": "https://github.com/cjzc2019/xun2010",
+            "apps": [{
+             "id": "whd",
+            "name": "whd",
+            "keys": ["wdwhdbody","wdwhdhd", "wdwhdspbody","wdwhdbody2","wdwhdhd2", "wdwhdspbody2","wdwhdbody3","wdwhdhd3", "wdwhdspbody3","wdwhdbody4","wdwhdhd4", "wdwhdspbody4","wdwhdbody5","wdwhdhd5", "wdwhdspbody5"],
+            "author": "@yiyi",
+            "settings": [{
+            "id": "wdwhdstatus",
+            "name": "当前账号",
+            "val": "1",
+            "type": "number",
+            "desc": "当前账号对应"
+    }],
+            "repo": "https://github.com/age174/-/blob/main/xbyd.js",
+            "icons": ["https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg", "https://ae01.alicdn.com/kf/Ubc6bbe61f9f64be78d2b89ec88557fa4f.jpg"],
+            "script": "https://raw.githubusercontent.com/age174/-/main/xbyd.js"
+    }
+]
+}
